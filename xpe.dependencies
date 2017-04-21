@@ -42,6 +42,7 @@
     "branch":      "cm-14.1"
   },
   {
+    "remote": "xpe",
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
     "branch":      "xpe-11.1"
